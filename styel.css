@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(42, 41, 41);
+}
+.container{
+    background-color:rgb(25, 38, 38);
+     
+}
+.list{
+    width: 30%;
+    height: 62%;
+    background-color: aliceblue;
+     position: absolute;
+     
+     top: 32%;
+   bottom: 0;
+     right: 20%;
+ 
+      
+}
+ .hide{
+display: none;
+ }
